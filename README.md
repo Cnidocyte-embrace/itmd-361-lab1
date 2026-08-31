@@ -1,3 +1,3 @@
-# ITMD-361-LAB-1
+# ITMD-361
 
-Proving I know how to make github repos, do git version control, and make a simple index.html file
+PThe repo for labs and projects for ITMD-361
