@@ -1,3 +1,3 @@
 # ITMD-361
 
-PThe repo for labs and projects for ITMD-361
+The repo for the first lab in ITMD-361 web development
